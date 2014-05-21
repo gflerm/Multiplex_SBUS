@@ -5,7 +5,7 @@
 
 */
 
-// sketch to test Serial
+
 
 #include <BasicSerial3.h>
 
