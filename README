@@ -1,7 +1,5 @@
 ***********************************************************************
-Multiplex SBUS sensor build
-
-
-
-
+Multiplex SBUS Sensor using TINY85 @ 8Mhz
+Single wire half duplex serial at 38400 baud on Port B5
+Vcc = 3.3V
 ***********************************************************************
