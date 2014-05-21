@@ -20,6 +20,10 @@ Thumbs.db
 *.eep
 *.elf
 *.hex
+*.atsln
+*.atsuo
+*.cppproj
+*.xml
 [Bb]in
 [Dd]ebug*/
 *.lib
