@@ -5,10 +5,11 @@
 
 */
 
+// sketch to test Serial
 
 #include <BasicSerial3.h>
 
-// sketch to test Serial
+
 
 void setup()
 {
